@@ -1,15 +1,18 @@
+
+
 # Santiago Casseca, I'm Dev Frontend
 
 
-<div style="display: flex; gap: 1em">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-casseca-496b84195)
+<div style="display:flex; gap: 1em ">
+<a href="www.linkedin.com/in/santiago-casseca-496b84195" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://ww.facebook.com/santiagofigueiredo.casseca/)
+<a href="https://ww.facebook.com/santiagofigueiredo.casseca/" target="_blank"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /></a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s.casseca/)
+<a href="https://www.instagram.com/s.casseca/" target="_blank"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
 
 </div>
+
 
 ## About Me
 
@@ -19,15 +22,15 @@ On my GitHub, you will find projects focused on responsive web applications, exp
 
 **Email**: santiagocasseca21@gmail.com
 
-
-![Santiago Casseca GitHub stats](https://github-readme-stats.vercel.app/api?username=scasseca8&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scasseca8&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<a href="https://beacons.ai/scasseca8">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=scasseca8&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scasseca8&layout=donut&theme=tokyonight"/>
+</div>
 
 ## Technologies I use
 
-<div style="display: flex; align-items: center; gap: 2em; margin-bottom: 20px"><br>
+<div style="display: flex; align-items: center; gap: 0.5em; margin-bottom: 20px"><br>
 
 
 <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
@@ -55,7 +58,7 @@ On my GitHub, you will find projects focused on responsive web applications, exp
           
 </div>  
 
-<div style="display: flex; align-items: center; gap: 2em; margin-bottom: 20px"><br>
+<div style="display: flex; align-items: center; gap: 0.5em; margin-bottom: 20px"><br>
 
 <img align="center" alt="TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
@@ -83,7 +86,7 @@ On my GitHub, you will find projects focused on responsive web applications, exp
 
 </div>
 
-<div style="display: flex; align-items: center; gap: 2em; margin-bottom: 20px"><br>        
+<div style="display: flex; align-items: center; gap: 0.5em; margin-bottom: 20px"><br>        
 
 <img align="center" alt="Dreamweaver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" />
 
